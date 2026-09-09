@@ -1,0 +1,46 @@
+# ================================
+# MATLAB temporary and autosave
+# ================================
+
+# Editor autosave
+*.asv
+
+# Simulink autosave and backup
+*.slx~
+*.mdl~
+
+# ================================
+# Compiled and generated files
+# ================================
+
+# Compiled MATLAB
+*.mex*
+*.p
+
+# Shared libraries
+*.dll
+*.so
+*.dylib
+
+# ================================
+# MATLAB settings / preferences
+# ================================
+
+# MATLAB project and preference files
+*.mlsettings
+*.prj
+
+# ================================
+# OS / editor noise
+# ================================
+
+.DS_Store
+Thumbs.db
+*.log
+
+# ================================
+# Optional: large data (uncomment if needed)
+# ================================
+# *.mat
+
+

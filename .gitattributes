@@ -1,0 +1,27 @@
+# ================================
+# MATLAB / Simulink Git attributes
+# ================================
+
+# MATLAB code (text)
+*.m text eol=lf
+
+# MATLAB Live Scripts (binary)
+*.mlx binary
+
+# MATLAB data and figures (binary)
+*.mat binary
+*.fig binary
+
+# MATLAB apps (binary)
+*.mlapp binary
+
+# Simulink models (binary)
+*.slx binary
+*.mdl binary
+
+# Compiled MATLAB files (binary)
+*.mex* binary
+*.p binary
+
+# Default: do not auto-convert line endings
+* -text
